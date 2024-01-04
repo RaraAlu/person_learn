@@ -286,3 +286,10 @@ sudo dpkg -i *.deb			// 安装指令
 sudo apt-get install -f 	// 补充依赖
 ```
 
+#### 华为key
+
+```
+User Name,	  Access Key Id,	   Secret Access Key
+"hw095090356",PZTPWG0SBFTMKONEYQA4,YzrCu9wGa0jOuh47Vrp9WdgKVxeQum1nAnBaaiyM
+```
+
