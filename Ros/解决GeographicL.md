@@ -46,7 +46,7 @@ CMake Error at CMakeLists.txt:21 (find_package):
 解决：
 
 ```shell
-1 sudo ln -s /usr/share/cmake/geographiclib/FindGeographicLib.cmake /usr/share/cmake-3.22.1/Modules/
+sudo ln -s /usr/share/cmake/geographiclib/FindGeographicLib.cmake /usr/share/cmake-3.22/Modules/
 ```
 
 再次编译，成功。
